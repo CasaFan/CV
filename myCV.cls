@@ -253,7 +253,7 @@
         
         %\profilesection{Langages}{3cm} 
         
-		\normalsize\interests{{R/3},{Python/2.5},{C{/}C++/3.5},{Java/4},{JavaScript/4.3},{PHP/4.5}}
+		\normalsize\interests{{R/2.5},{Python/4},{C{/}C++/3.5},{Java/3.5},{JavaScript/4.3},{PHP/4.5}}
         
         \interests\\
         
